@@ -3,7 +3,7 @@
 Created on Thu Oct 16 11:52:30 2025
 
 This code will be implemented after generating global filter which is (accepting values less than 80 ohm.m and 10 % stacking error).
-The output is 20250625_dev_rho.xlsx
+The input is 20250625_dev_rho.xlsx
 
 @author: akagupta
 """
