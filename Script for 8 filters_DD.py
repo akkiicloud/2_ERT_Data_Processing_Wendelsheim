@@ -3,7 +3,7 @@
 Created on Fri Aug 22 11:20:31 2025
 
 This code will be implemented after separating the data set into DD and MG.
-The output DD file is dd_only_Wendelsheim.xlsx 
+The input DD file is dd_only_Wendelsheim.xlsx 
 This code also exhibits global filter (accepting values less than 80 ohm.m and 10 % stacking error), then additional 8 filter.
 
 
